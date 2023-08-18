@@ -1,0 +1,17 @@
+---
+layout: page
+exclude: true
+---
+<article class="post">
+
+  {% capture imageUrl %} ../images/{{ page.AccessionNo | downcase }}.jpg {% endcapture %}
+  <img src="{{ imageUrl }}" style="max-height: 400px" alt="An image of the artwork {{page.ArtName}} by {{page.Artist}}"/>
+  <p><b>Artist: </b>{{page.Artist}} {{page.ArtistYears}}</p>
+  <p><b>Created: </b>{{page.ArtYear}}</p>
+  <p>{{page.Description}}</p>
+  <p><i>{{page.Media}}</i></p>
+  <p><i>{{page.Purchase}}</i></p>
+
+  <a href="../g4">Back to list</a>
+
+</article>
