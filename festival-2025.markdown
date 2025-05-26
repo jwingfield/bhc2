@@ -5,7 +5,7 @@
 layout: page
 title: "Bradford Heritage Festival 2025"
 ---
-![heritage festival 2025 logo](images/heritage-festival.png)
+![heritage festival 2025 logo](heritage-festival.png)
 
 A list of the events that are part of the Bradford Heritage Festival 2025 will be here....
 

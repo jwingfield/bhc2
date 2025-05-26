@@ -562,7 +562,7 @@ table td {
 }
 
 .footer-col-wrapper,
-.social-links {
+.social-links a {
   font-size: 0.9375rem;
   color: #828282;
 }
