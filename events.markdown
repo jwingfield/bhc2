@@ -8,14 +8,13 @@ title: Events
 
 # Upcoming Events
 
-<ul>
-    {% for Event in site.data.bhc-events %}
-    <li>
-        <ul>
-          <li><em>{{Event}}</em></li>
-          <li>{{Date}} {{Time}}</li>
-          <li>>{{Details}}</li>
-        </ul>
-    </li>
-    {% endfor %}
+{% for Event in site.data.bhc-events %}
+  <li>
+    <ul>
+      <li><em>{{Event}}</em></li>
+      <li>{{Date}} {{Time}}</li>
+      <li>>{{Details}}</li>
+    </ul>
+  </li>
+  {% endfor %}
 </ul>
