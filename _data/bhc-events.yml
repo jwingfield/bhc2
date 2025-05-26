@@ -1,6 +1,6 @@
-- Date: 01/07/2025
+- Event: 'Textiles Event'
+  Date: 01/07/2025
   Time: 14:00-16:00
-  Event: 'Textiles Event'
   Details: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tortor sapien, 
     lacinia ut lorem eu, laoreet posuere orci. Suspendisse elementum viverra 
@@ -9,9 +9,9 @@
     nisl ut, tincidunt accumsan arcu. In in ornare eros.  
     Mauris non pellentesque tortor. Etiam cursus nisl sed auctor consequat. Nullam 
     condimentum volutpat ante vitae placerat.
-- Date: 02/07/2025
+- Event: 'Art Event'
+  Date: 02/07/2025
   Time: 14:00-16:00
-  Event: 'Art Event'
   Details: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tortor sapien, 
     lacinia ut lorem eu, laoreet posuere orci. Suspendisse elementum viverra 
@@ -20,9 +20,9 @@
     nisl ut, tincidunt accumsan arcu. In in ornare eros.  
     Mauris non pellentesque tortor. Etiam cursus nisl sed auctor consequat. Nullam 
     condimentum volutpat ante vitae placerat.
-- Date: 01/07/2025
+- Event: 'Craft Event'
+  Date: 01/07/2025
   Time: 14:00-16:00
-  Event: 'Craft Event'
   Details: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tortor sapien, 
     lacinia ut lorem eu, laoreet posuere orci. Suspendisse elementum viverra 
