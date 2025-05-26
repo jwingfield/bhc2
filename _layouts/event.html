@@ -10,7 +10,7 @@ exclude: true
   <img src="{{ imageUrl }}" style="max-height: 400px" alt="An image of the artwork {{page.ArtName}} by {{page.Artist}}"/>
 --}
 
-  <p><b>Date: </b>{{page.Date}}</p>
+  <p><b>Date: </b>{{page.Date | date: date_format }}</p>
   <p><b>Time: </b>{{page.Time}}</p>
   <p><b>Event: </b>{{page.Event}}</p>
   <p>{{page.Details}}</p>
