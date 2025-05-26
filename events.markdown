@@ -9,9 +9,9 @@ title: Events
 # Upcoming Events
 
 {% for event in site.data.bhc-events %}
-  <ul>
-    <li><em>{{event.Event}}</em></li>
-      <li>{{event.Date | date: "%a %-d %B %Y"}} at {{event.Time | date: "%H:%M" }}</li>
-    <li>>{{event.Details}}</li>
-  </ul>
+  <h2>{{event.Date | date: "%a %-d %B %Y"}} at {{event.Time | date: "%H:%M" }}</h2>
+  <p>
+    {{event.Event}}<br/>
+    {{event.Details}}
+  </p>
 {% endfor %}
