@@ -7,7 +7,7 @@ layout: home
 ---
 
 # Braford Heritage Connection
-<video autoplay muted="TRUE" width="100%" src="/images/bhc-animated.mp4">Animated BHC Logo</video>
+<video autoplay muted="TRUE" width="100%" src="images/bhc-animated.mp4">Animated BHC Logo</video>
 
 background #eee0e0
 text #392c59
