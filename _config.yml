@@ -55,10 +55,3 @@ plugins:
 #   - vendor/ruby/
 
 page_gen-dirs: true
-
-page_gen:
-  - data: 'bhc-events'
-    template: ''
-    dir: 'events'
-    title: 'Date - Event'
-    index_files: true

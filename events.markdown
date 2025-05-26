@@ -11,7 +11,7 @@ title: Events
 {% for Event in site.data.bhc-events %}
   <ul>
     <li><em>{{Event}}</em></li>
-      <li>{{Date | date: "%a %-d %B %Y"}} {{Time | date: "%H:%M" }}</li>
+      <li>{{Date | date: "%a %-d %B %Y"}} at {{Time | date: "%H:%M" }}</li>
     <li>>{{Details}}</li>
   </ul>
 
