@@ -3,10 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-image: banner.jpg
+
 ---
+
 # Cartwright Hall - The Text Behind the Art
-![Image of Gallery 4](images/g4-general.webp)
-[Learn more about the artwork in Gallery 4](g4.html)
+<video autoplay muted="TRUE" width="100%" src="/images/bhc-animated.mp4">Animated BHC Logo</video>
+
+background #eee0e0
+text #392c59
 
 
