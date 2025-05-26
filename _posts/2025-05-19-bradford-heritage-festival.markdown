@@ -10,4 +10,4 @@ image: images/heritage-festival.png
 We are thrilled to launch the 2025 Bradford Heritage Festival - 11th to 13th Jul 2025🎉🎉  
   
 Taking place over 3 days and across the whole District there's a programme for history lovers, the curious, families, doers, makers and all 💗
-Look sout for the Programme launch next week!!!
+Look out for the Programme launch next week!!!
