@@ -61,4 +61,4 @@ page_gen:
     template: ''
     dir: 'events'
     title: 'Date - Event'
-    index_files: false
+    index_files: true
