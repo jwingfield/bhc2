@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Bradford Heritage Connections Events
+title: Events
 ---
 
 # Upcoming Events
@@ -11,9 +11,11 @@ title: Bradford Heritage Connections Events
 <ul>
     {% for Event in site.data.bhc-events %}
     <li>
-        {{Event}}
-        {{Date}} {{Time}}
-        {{details}}
+        <ul>
+          <li><em>{{Event}}</em></li>
+          <li>{{Date}} {{Time}}</li>
+          <li>>{{Details}}</li>
+        </ul>
    </li>
     {% endfor %}
 </ul>
