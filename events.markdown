@@ -16,7 +16,6 @@ title: Events
           <li>{{Date}} {{Time}}</li>
           <li>>{{Details}}</li>
         </ul>
-   </li>
+    </li>
     {% endfor %}
 </ul>
-
