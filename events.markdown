@@ -15,4 +15,6 @@ title: Events
     <li>>{{Details}}</li>
   </ul>
 
+Next Event
+
 {% endfor %}
