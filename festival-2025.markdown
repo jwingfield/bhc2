@@ -9,15 +9,15 @@ title: "Heritage Festival 2025"
 
 A list of the events that are part of the Bradford Heritage Festival 2025 will be here....
 
-# Date 1 | Event 1
+# Friday 11th July| Event 1
 Some details about the event.  
 *maybe a link to more details*
 
-# Date 2 | Event 2
+# Saturday 12th July | Event 2
 Some details about the event.  
 *maybe a link to more details*
 
-# Date 3 | Event 3
+# Sunday 13th July | Event 3
 Some details about the event.  
 *maybe a link to more details*
 
