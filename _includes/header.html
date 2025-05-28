@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ relative_url | append: "images/bhc-mini.png" }}" alt="BHC logo" /> 
+      <img src="{{ site.relative_url | append: "images/bhc-mini.png" }}" alt="BHC logo" /> 
       {{ site.title | escape }}
     </a>
    
@@ -20,8 +20,8 @@
         </label>
 
         <p>Just checking - [ {{ base_url }} ]</p>
-        <p> [ {{ base_url | append: "filename" }} ]</p>
-        <p> [ "{{ relative_url | append: "filename" }}" ]</p>
+        <p> [ {{ site.base_url | append: "filename" }} ]</p>
+        <p> [ "{{ site.relative_url | append: "filename" }}" ]</p>
         <p> [ {{ site.title | escape }} ]</p>
 
         <div class="trigger">
