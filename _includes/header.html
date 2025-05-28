@@ -20,8 +20,8 @@
         </label>
 
         <p>Just checking - [ {{ base_url }} ]</p>
-        <p> [ {{ site.base_url | append: "filename" }} ]</p>
-        <p> [ "{{ site.relative_url | append: "filename" }}" ]</p>
+        <p> [ {{ site.baseurl | append: "filename" }} ]</p>
+        <p> [ {{ site.relativeurl | append: "filename" }} ]</p>
         <p> [ {{ site.title | escape }} ]</p>
 
         <div class="trigger">
