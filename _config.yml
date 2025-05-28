@@ -21,8 +21,7 @@
 title: Bradford Heritage Connection
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A little summary about Bradford Heritage Connection.  Maybe a mission 
-  statement?  Probably some legal stuff - company number etc too.
+  Bradford Heritage Connection CIC.  Registered in England and Wales, company number 16039881.  A Community Interest Company dedicated to the preservation of Bradford's heritage.
 baseurl: "/bhc2"
 logo: images/bhc-mini.png
 twitter_username: coming soon...
