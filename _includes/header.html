@@ -21,7 +21,7 @@
 
         <p>Just checking - [ {{ base_url }} ]</p>
         <p> [ {{ base_url | append: "filename" }} ]</p>
-        <p> [ {{ relative_url | append: "filename" }} ]</p>
+        <p> [ "{{ relative_url | append: "filename" }}" ]</p>
         <p> [ {{ site.title | escape }} ]</p>
 
         <div class="trigger">
