@@ -6,4 +6,4 @@ _site/
 .bundle/
 vendor/
 .events
-old-pages/
+_old-pages/
