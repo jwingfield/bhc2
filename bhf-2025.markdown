@@ -3,16 +3,21 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: BHF Events
+title: Heritage Festival 2025 
 ---
 
-# Upcoming Events
+# Bradford Heritage Festival 2025 Events
 
 {% for event in site.data.bhf-events-2025 %}
   <p>
     <b>{{event.Date | date: "%a %-d %B %Y"}} at {{event.Times | date: "%H:%M" }}</b><br/>
     <em>{{event.EventTitle}} </em><br/>
-    {{event.LongDesc}}  
-    {{event.VenueAddress}}
+    {{event.LongDesc}}<br/>
+    {{event.VenueAddress}}<br/>
+    {{event.VenuePhone}}<br/>
+    {{event.VenueWebsite}}<br/>
+    {{event.Category1}} | {{event.Category2}}
   </p>
+
+  <hr/>
 {% endfor %}
