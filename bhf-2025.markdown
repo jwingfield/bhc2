@@ -6,7 +6,7 @@ layout: page
 title: Heritage Festival 2025 Events
 ---
 
-<div>
+<div style="display: block;">
   <img alt="Bradford Hertiage Festival 2025 logo" src="images/festival-logo.png" style="width: 50%; float: left;">
   <p>
     Bradford Heritage Connection is proud to announce the first Bradford Heritage Festival.  In partnership with several organisations across the Bradford District, there will be a number of events celebrating heritage skills and giving you an opportunity to have a go at them.
