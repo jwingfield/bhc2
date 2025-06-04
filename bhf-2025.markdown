@@ -6,7 +6,7 @@ layout: page
 title: Heritage Festival 2025 Events
 ---
 
-![Bradford Hertiage Festival 2025 logo](images/festival-logo.png)
+<img alt="Bradford Hertiage Festival 2025 logo" src="images/festival-logo.png" style="width: 50%; display: block; margin: auto;">
 
 {% for event in site.data.bhf-events-2025 %}
   <img src="images/{{event.ImageName}}" alt="{{event.ImageDesc}} | Credit {{event.ImageCredit}}" style="float: left; height: 80px; margin-right: 20px; margin-bottom: 10px;">
