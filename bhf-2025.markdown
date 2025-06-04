@@ -4,6 +4,7 @@
 
 layout: page
 title: Heritage Festival 2025 Events
+image: images/festival-logo.png
 ---
 
 {% for event in site.data.bhf-events-2025 %}
@@ -15,7 +16,7 @@ title: Heritage Festival 2025 Events
   </p>
   <p>
     <b>Venue:</b> {{event.VenueAddress}}<br/>
-    <b><Phone:</b> {{event.VenuePhone}}<br/>
+    <b>Phone:</b> {{event.VenuePhone}}<br/>
     <b>Website:</b> {{event.VenueWebsite}}<br/>
     {{event.Category1}} | {{event.Category2}}
   </p>
