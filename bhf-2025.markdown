@@ -6,7 +6,10 @@ layout: page
 title: Heritage Festival 2025 Events
 ---
 
-<img alt="Bradford Hertiage Festival 2025 logo" src="images/festival-logo.png" style="width: 50%; display: block; margin: auto;">
+<img alt="Bradford Hertiage Festival 2025 logo" src="images/festival-logo.png" style="width: 50%; float: left;">
+<p><Bradford Heritage Connection is proud to announce the first Bradford Heritage Festival.  In partnership with several organisations across the Bradford District, there will be a number of events celebrating heritage skills and giving you an opportunity to ahve a go at them.</p>
+
+<hr/>
 
 {% for event in site.data.bhf-events-2025 %}
   <img src="images/{{event.ImageName}}" alt="{{event.ImageDesc}} | Credit {{event.ImageCredit}}" style="float: left; height: 80px; margin-right: 20px; margin-bottom: 10px;">
@@ -21,4 +24,5 @@ title: Heritage Festival 2025 Events
     <b>Website:</b> {{event.VenueWebsite}}<br/>
     {{event.Category1}} | {{event.Category2}}
   </p>
+  <hr/>
 {% endfor %}
