@@ -9,7 +9,7 @@ title: Heritage Festival 2025
 # Bradford Heritage Festival 2025 Events
 
 {% for event in site.data.bhf-events-2025 %}
-  <img src="images/{{event.ImageName" alt="{{event.ImageDesc}} | Credit {{event.ImageCredit}}" style="float: left; width: 80px; margin-right: 20px; margin-bottom: 10px;">
+  <img src="images/{{event.ImageName}}" alt="{{event.ImageDesc}} | Credit {{event.ImageCredit}}" style="float: left; width: 80px; margin-right: 20px; margin-bottom: 10px;">
   <h3>{{event.Date | date: "%a %-d %B %Y"}} at {{event.Times | date: "%H:%M" }}</h3>
   <h4>{{event.EventTitle}}</h4>
   <p>    
