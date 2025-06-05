@@ -25,5 +25,5 @@ title: Heritage Festival 2025 Events
     {{event.Category1}} | {{event.Category2}}
   </p>
   <hr/>
-  
+  <br/>
 {% endfor %}
