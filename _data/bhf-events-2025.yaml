@@ -67,6 +67,23 @@
     ImageName: bhf009.png
     Notes: "Bradford Map Events\r"
 -
+    EventTitle: 'A Moving Legacy for Bradford'
+    VenueAddress: 'Mechanics Institute, 76 Kirkgate, Bradford, BD1 1SZ'
+    VenuePhone: ""
+    VenueWebsite: ""
+    Date: 11/07/2025
+    Times: 'Talk at 1pm, but stall open all day'
+    ShortDesc: 'Join us for a special presentation about the important role film archives play in preserving and celebrating Bradford’s films for generations to come. Discover how you can be a part of the story. If you can’t attend the talk but are keen to know more – don’t worry! Find our stall at the Mechanics Institute all day to chat about how to get involved.'
+    LongDesc: 'Are you a filmmaker with an interest in local stories, culture and identity? Are you a content-creator passionate about the events and people of your city? Are you a Bradfordian who captures the memories of your family and community?  Digital media is at risk. Yorkshire Film Archive are on a mission to create a moving image legacy for Bradford before it’s too late. We are connecting with diverse communities to collect and preserve contemporary footage, the heritage of the future, for generations to come. Discover how you can be a part of the story. Join us for a special presentation about the important role film archives play in saving and celebrating Bradford’s screen heritage. FREE. If you can’t attend the talk but are keen to know more – don’t worry! Find our stall at the Mechanics Institute all day to chat about how to get involved.<br/>Free drop in.<br/>Film and Talk (for It's On Kelly).'
+    Category1: Film
+    Category2: Talk
+    LeadName: ''
+    LeadEmail: ""
+    ImageDesc: "Vaults"
+    ImageCredit: ''
+    ImageName: bhf023.png
+    Notes: "Bradford Map Events\r"
+-
     EventTitle: 'Snapshots of Ilkley: Youthful Visions & Historic Reflections'
     VenueAddress: 'Ilkley Manor House, Castle Yard, Ilkley LS29 9DT'
     VenuePhone: ""
@@ -135,20 +152,20 @@
     ImageName: bhf-mini.png
     Notes: "\r"
 -
-    EventTitle: 'Guided Tour of World Heritage Saltaire'
+    EventTitle: 'Four FREE Guided Tours of World Heritage Saltaire'
     VenueAddress: 'Start at Saltaire United Reformed Church, Victoria Road, Saltaire, BD18 3LF'
     VenuePhone: ""
-    VenueWebsite: 'Eventbrite to follow...'
+    VenueWebsite: 'https://www.eventbrite.co.uk/e/four-free-guided-tours-of-world-heritage-saltaire-tickets-1362304121299?aff=oddtdtcreator'
     Date: 12/07/2025
-    Times: '10am, 11am, 12pm and 1pm'
-    ShortDesc: 'Led by knowledgable local historians, each tour includes the URC church''s interior, the Salt family mausoleum and much more.'
-    LongDesc: 'See Saltaire on a tour led by knowledgable local historians. Yours experience will start at the United Reformed Church with a slideshow painting Saltaire''s history. Following this, you will visit the churche''s glorious worship room and Sir Titus Salt''s family mausoleum. A walking tour of the villages star locations follows.'
+    Times: '10am onwards'
+    ShortDesc: 'Led by knowledgeable local historians, each tour includes the URC church''s interior, the Salt family mausoleum and much more.'
+    LongDesc: 'See Saltaire on a tour led by knowledgeable local historians. Your experience will start at the United Reformed Church with a slideshow painting Saltaire''s history. Following this, you will visit the church''s glorious worship room and Sir Titus Salt''s family mausoleum. A walking tour of the villages star locations follows.<br/>Use the link below to book your ticket.'
     Category1: Heritage
     Category2: Tour
     LeadName: 'Maggie Smith and Les Brook'
     LeadEmail: smithmaggie6@gmail.com
     ImageDesc: 'Saltaire Arial View'
-    ImageCredit: 'https://ita01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fe%2Ffree-guided-tours-of-world-heritage-saltaire-tickets-1362304121299%3Faff%3Doddtdtcreator&data=05%7C02%7C%7Cbedd5307bd254d6d8ac508dd925956b4%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638827634593585347%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=adDDKF9gEhrPrCX5%2F%2ByYwt%2FwE15ZDsBXQi6bcjqy6OE%3D&reserved=0'
+    ImageCredit: ''
     ImageName: bhf003.png
     Notes: "Limited disabled only parking is available in the URC grounds\r"
 -
