@@ -299,7 +299,7 @@
     Category1: Heritage
     Category2: Talk
     LeadName: 'Heather Millard'
-    LeadEmail: heather.millard@bradford.gov.uk
+    LeadEmail: "heather.millard@bradford.gov.uk"
     ImageDesc: 'Butterfield Women'
     ImageCredit: ""
     ImageName: bhf020.jpg
