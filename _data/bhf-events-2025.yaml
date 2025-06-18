@@ -92,9 +92,18 @@
     VenuePhone: ""
     VenueWebsite: ""
     Date: 11/07/2025
-    Times: 'Talk at 1pm, but stall open all day'
+    Times: 'See below for times'
     ShortDesc: 'Join us for a special presentation about the important role film archives play in preserving and celebrating Bradford’s films for generations to come. Discover how you can be a part of the story. If you can’t attend the talk but are keen to know more – don’t worry! Find our stall at the Mechanics Institute all day to chat about how to get involved.'
-    LongDesc: 'Are you a filmmaker with an interest in local stories, culture and identity? Are you a content-creator passionate about the events and people of your city? Are you a Bradfordian who captures the memories of your family and community?  Digital media is at risk. Yorkshire Film Archive are on a mission to create a moving image legacy for Bradford before it’s too late. We are connecting with diverse communities to collect and preserve contemporary footage, the heritage of the future, for generations to come. Discover how you can be a part of the story. Join us for a special presentation about the important role film archives play in saving and celebrating Bradford’s screen heritage. FREE. If you can’t attend the talk but are keen to know more – don’t worry! Find our stall at the Mechanics Institute all day to chat about how to get involved.<br/>Free drop in.'
+    LongDesc: >
+      '<p>Are you a filmmaker with an interest in local stories, culture and identity? Are you a content-creator passionate about 
+      the events and people of your city? Are you a Bradfordian who captures the memories of your family and community?  Digital 
+      media is at risk. Yorkshire Film Archive are on a mission to create a moving image legacy for Bradford before it’s too late. We 
+      are connecting with diverse communities to collect and preserve contemporary footage, the heritage of the future, for 
+      generations to come. Discover how you can be a part of the story.</p>
+      <p>Join us at 1pm for a special presentation about the important role film archives play in saving and celebrating Bradford’s 
+      screen heritage. FREE.</p>
+      <p>If you can’t attend the talk but are keen to know more – don’t worry! Find our stall at the Mechanics Institute all day 
+      to chat about how to get involved.</p>'
     Category1: Film
     Category2: Talk
     LeadName: ''
