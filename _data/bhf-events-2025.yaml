@@ -154,7 +154,7 @@
     Date: 12/07/2025
     Times: '2pm'
     ShortDesc: 'The Haworth Heritage Trail, a 3 mile walk that begins at the Brontë Parsonage Museum and walks through two centuries of Haworth history.'
-    LongDesc: 'The Haworth Heritage Trail is one of Bradford 2025’s Bradford on Foot walks. It starts at the Brontë Parsonage Museum and heads down cobbled Main Street to the valley bottom where it follows Bridgehouse Beck before picking up an old Packhorse route and the Brontë Way back to Haworth. The walk will be led by a member of the Brontë Parsonage team. The walk is free, but places are limited. Please book a place via our website: <a href="www.bronte.org.uk/events/haworth-heritage-trail-guided-walk" target="_blank"><u>www.bronte.org.uk/events/haworth-heritage-trail-guided-walk</u></a>'
+    LongDesc: 'The Haworth Heritage Trail is one of Bradford 2025’s Bradford on Foot walks. It starts at the Brontë Parsonage Museum and heads down cobbled Main Street to the valley bottom where it follows Bridgehouse Beck before picking up an old Packhorse route and the Brontë Way back to Haworth. The walk will be led by a member of the Brontë Parsonage team. The walk is free, but places are limited. Please book a place via our website: <a href="https://www.bronte.org.uk/events/haworth-heritage-trail-guided-walk" target="_blank"><u>www.bronte.org.uk/events/haworth-heritage-trail-guided-walk</u></a>'
     Category1: Heritage
     Category2: Outdoor
     LeadName: 'Diane Fare'
@@ -208,7 +208,7 @@
     EventTitle: 'Snapshots of Ilkley: Youthful Visions & Historic Reflections'
     VenueAddress: 'Ilkley Manor House, Castle Yard, Ilkley LS29 9DT'
     VenuePhone: ""
-    VenueWebsite: 'http://www.ilkleymanorhouse.org'
+    VenueWebsite: 'https://www.ilkleymanorhouse.org'
     Date: 12/07/2025
     Times: '11am to 4pm'
     ShortDesc: 'Downstairs in the House is a photography exhibition showcasing the winning images from the Young Photographers Competition, a key part of photoILKLEY, Ilkley’s first photography festival which celebrates photography, community, storytelling, reflection, and inclusion. Upstairs is a heritage exhibition about “The Great Flood” which struck Ilkley on Thursday July 12th 1900. The exhibition uses reports and photographs of the time to show what happened and the aftermath.'
@@ -243,7 +243,7 @@
       the original Victorian courtroom, visit the old police cells, and explore exhibits 
       showcasing Bradford's rich policing heritage. Museum tours are ticketed and can be booked 
       online in advance 
-      <a href="www.ticketsource.co.uk/bradford-police-museum" target="_blank"><u>here</u></a>.
+      <a href="https://www.ticketsource.co.uk/bradford-police-museum" target="_blank"><u>here</u></a>.
       Join us as The Bradford Police Museum proudly celebrates the first-ever Bradford 
       Heritage Festival by bringing history to life in the heart of the city! 
       Bring the family, meet museum volunteers, and enjoy a fascinating journey through 
@@ -457,7 +457,7 @@
     EventTitle: 'Snapshots of Ilkley: Youthful Visions & Historic Reflections'
     VenueAddress: 'Ilkley Manor House, Castle Yard, Ilkley LS29 9DT'
     VenuePhone: ""
-    VenueWebsite: 'http://www.ilkleymanorhouse.org'
+    VenueWebsite: 'https://www.ilkleymanorhouse.org'
     Date: 13/07/2025
     Times: '11am to 4pm'
     ShortDesc: 'Downstairs in the House is a photography exhibition showcasing the winning images from the Young Photographers Competition, a key part of photoILKLEY, Ilkley’s first photography festival which celebrates photography, community, storytelling, reflection, and inclusion. Upstairs is a heritage exhibition about “The Great Flood” which struck Ilkley on Thursday July 12th 1900. The exhibition uses reports and photographs of the time to show what happened and the aftermath.'
@@ -541,7 +541,17 @@
     Date: 13/07/2025
     Times: '11am to 12.30pm'
     ShortDesc: 'Join renowned calligrapher Razwan Ul-Haq for a fascinating talk into the project and a hands on Nastaliq Arabic Calligraphy workshop. Must be pre booked www.eventbrite.co.uk/e/heritage-craft-workshop-traditional-arabic-calligraphy-tickets-1410747617099?aff=ebdssbdestsearch&keep_tld=1 Minimum donation £1 PAYF'
-    LongDesc: 'Join Razwan for a fascinating talk into the project and a hands on Nastaliq Arabic Calligraphy workshop, using bamboo pens and one of the hand ground inks sourced from Bradford. The workshop is suitable for absolute beginners as well as those who know Arabic. (Help will be available!) Razwan will also hold a talk on the diverse ways inks were made for traditional Arabic Calligraphy and how this has fed into his project. For adults and children over 11 (who will need to be accompanied by an adult). All materials provided and you are welcome to bring along a sketch book!  Must be pre booked via <a href="www.eventbrite.co.uk/e/heritage-craft-workshop-traditional-arabic-calligraphy-tickets-1410747617099" target="_blank"><u>Eventbrite</u></a>. Minimum donation £1 PAYF'
+    LongDesc: >
+      <p>Join Razwan for a fascinating talk into the project and a hands on Nastaliq Arabic 
+      Calligraphy workshop, using bamboo pens and one of the hand ground inks sourced from 
+      Bradford. The workshop is suitable for absolute beginners as well as those who know 
+      Arabic. (Help will be available!)</p>
+      <p>Razwan will also hold a talk on the diverse ways inks were made for traditional 
+      Arabic Calligraphy and how this has fed into his project.</p> 
+      <p>For adults and children over 11 (who will need to be accompanied by an adult). All 
+      materials provided and you are welcome to bring along a sketch book!  Must be pre booked 
+      via <a href="https://www.eventbrite.co.uk/e/heritage-craft-workshop-traditional-arabic-calligraphy-tickets-1410747617099" 
+      target="_blank"><u>Eventbrite</u></a>. Minimum donation £1 PAYF'</p>
     Category1: Heritage
     Category2: 'Arts & Crafts'
     LeadName: 'Tony Carruthers'
