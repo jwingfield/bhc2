@@ -16,15 +16,15 @@
     ImageName: bhf006.png
     Notes: "\r"
 -
-    EventTitle: St George's Hall Heritage Exhibtion
-    VenueAddress: 'St George's Hall, Bradford BD1 1JT'
+    EventTitle: "St George's Hall Heritage Exhibition"
+    VenueAddress: "St George's Hall, Bradford, BD1 1JT"
     VenuePhone: '01274 432375'
     VenueWebsite: 'www.stgeorgeshallheritage-bradford.co.uk/'
     Date: 11/07/2025
     Times: '10am to 4pm'
     ShortDesc: 'Exhibition highlighting the heritage of St George’s Concert Hall in its ground floor café. View posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era and framed posters of comedy gigs. FREE An information sheet about the history and heritage of St George’s Hall will be provided along with details about the next available heritage tour of the whole site.'
     LongDesc: 'View display highlighting the history and heritage of the stunning, Grade II* listed St George’s Hall in its ground floor café. This includes posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era shown at the venue when it was a cinema and framed posters of comedy gigs. QR codes with links to the history and heritage of St George’s Hall website support the display with further images and information. FREE entry. No booking needed. Enjoy a drink or bite to eat in the newly opened St George’s Hall café but not required. Food served between 11am -2pm.'
-    Category1: Exhibtion
+    Category1: Exhibition
     Category2: 'Food & Drink'
     LeadName: 'Penny Green'
     LeadEmail: Penny.Green@bradford.gov.uk
@@ -109,7 +109,7 @@
     Times: '10.30am to 3.00pm'
     ShortDesc: 'South Square is delighted to be hosting an exhibition by Alicja Mrozowska, work to date and explores identity, memory, and cultural hybridity through bold portraiture and playful abstraction.'
     LongDesc: 'Alicja Mrozowska’s paintings navigate the layered terrain of identity, memory, and cultural hybridity through bold portraiture and playful abstraction. Rooted in personal history and shaped by the nuances of migration, her work draws from everyday imagery, reconfiguring the familiar to question how place and experience inform who we are. Yorkshire Pudding and Pickled Cabbage marks the most expansive presentation of Mrozowska’s work to date, bringing together paintings from 2017 through to 2025. Combining large gestural brushstrokes with recurring motifs and symbolic references, her compositions balance between the recognisable and the obscure, inviting viewers into a space where identities blur, overlap, and reform. Through a practice grounded in both intuition and process, Mrozowska weaves together collected images - personal, cultural, and imagined - layering them with oil paint and paper to construct portraits that resist singular readings. Her figures emerge not as fixed subjects but as open-ended reflections of internal complexity, shaped as much by social context as by intimate experience. At once serious and light-hearted, the exhibition revels in contradiction, drawing attention to the tensions between surface and depth, play and constraint, self and other. Mrozowska’s work ultimately asks: how do we perform, obscure, or reveal who we are - especially when those performances take place within the structures of cultural expectation? Alicja Mrozowska is a Polish visual artist and painter currently based in Leeds. Her practice explores identity, the concept of ‘home,’ and social constructs through a range of mediums including oil painting, film photography, installation, and construction. Drawing from personal experience, surroundings, and relationships, she reflects on the complexities of migration and belonging. Mrozowska graduated from the University of Salford in 2018 with a BA (Hons) in Visual Art. Since then, she has exhibited widely and taken part in collaborations and group residencies, while also devising and leading creative workshops in the UK, Poland, and Germany. Her process-driven approach weaves together collected images and intuitive mark-making to create narrative-rich, multidimensional works that prompt curiosity, vulnerability, and acceptance'
-    Category1: Exhibtion
+    Category1: Exhibition
     Category2: 'Arts & Crafts'
     LeadName: 'Domino Panton-Oakley'
     LeadEmail: domino@southsquarecentre.co.uk
@@ -144,7 +144,7 @@
     ShortDesc: 'Explore Thornton’s rich history at the Antiquarians annual exhibition'
     LongDesc: 'Thornton Antiquarian Archive present their annual exhibition at Thornton Community Centre. Dive through the history books and discover the tales of Thornton’s past. This comprehensive exhibition explores Thornton’s heritage, from memories of trolley busses to textile heritage and cottage industries. Speak to local historians, look at maps, books and photographs which detail life in the village from centuries ago. Hear about Arthur Bryant – the maggot king and why Thornton has some unusual place names such as ‘Spite & Malice’ & ‘Worlds End’. Thornton Antiquarians Society is a volunteer run archive based at South Square Centre in Thornton. Weekly talks take place at Thornton Community Centre. New members welcome. Free, Donations Welcome'
     Category1: Heritage
-    Category2: Exhibtion
+    Category2: Exhibition
     LeadName: 'Terry Miller'
     LeadEmail: antiquarians@southsquarecentre.co.uk
     ImageDesc: None
@@ -194,7 +194,7 @@
     Times: '10am to 3pm'
     ShortDesc: 'Join The Bradford Police Museum on Saturday 12th July for Bradford on the Beat: Vintage Vehicle Day, celebrating the first Bradford Heritage Festival. Enjoy a free outdoor exhibition of historic police vehicles. Guided tours of the Museum, including the Victorian courtroom and cells, are ticketed and can be booked in advance or on the day.'
     LongDesc: 'Step back in time with us at The Bradford Police Museum as we bring history to life for the first-ever Bradford Heritage Festival! Come along for a special Vintage Vehicle Day, on Saturday 12th July from 10am to 3pm, where you can see our collection of historic police vehicles up close, displayed outside the museum at City Hall. From vintage patrol cars to iconic police motorcycles, this is a unique opportunity to explore how policing on the streets has evolved through the decades.Free Outdoor Exhibition – Museum Tours Bookable Online. The outdoor vehicle display is free to attend and open to all. While you''re here, why not take a guided tour of The Bradford Police Museum, located inside City Hall? Step inside the original Victorian courtroom, visit the old police cells, and explore exhibits showcasing Bradford''s rich policing heritage. Museum tours are ticketed and can be booked online in advance. www.ticketsource.co.uk/bradford-police-museum Join us as The Bradford Police Museum proudly celebrates the first-ever Bradford Heritage Festival by bringing history to life in the heart of the city! Bring the family, meet museum volunteers, and enjoy a fascinating journey through Bradford’s policing past. A perfect day out for history enthusiasts, vehicle lovers, and curious minds of all ages!'
-    Category1: Exhibtion
+    Category1: Exhibition
     Category2: Outdoor
     LeadName: 'Kendra Howard'
     LeadEmail: kendra.bradfordpolicemuseum@gmail.com
@@ -220,15 +220,15 @@
     ImageName: bhf012.png
     Notes: "Emily Parkin will be selling signed copies of her book at this event.\r"
 -
-    EventTitle: Exhibtion
-    VenueAddress: 'St George's Hall, Bradford, BD1 1JT'
+    EventTitle: Exhibition
+    VenueAddress: "St George's Hall, Bradford, BD1 1JT"
     VenuePhone: '01274 432375'
-    VenueWebsite: 'www.stgeorgeshallheritage-bradford.co.uk/'
+    VenueWebsite: 'www.stgeorgeshallheritage-bradford.co.uk'
     Date: 12/07/2025
     Times: '10am to 4pm'
-    ShortDesc: 'Exhibition highlighting the heritage of St George’s Concert Hall in its ground floor café. View posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era and framed posters of comedy gigs. FREE An information sheet about the history and heritage of St George’s Hall will be provided along with details about the next available heritage tour of the whole site.'
-    LongDesc: 'View display highlighting the history and heritage of the stunning, Grade II* listed St George’s Hall in its ground floor café. This includes posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era shown at the venue when it was a cinema and framed posters of comedy gigs. QR codes with links to the history and heritage of St George’s Hall website support the display with further images and information. FREE entry. No booking needed. Enjoy a drink or bite to eat in the newly opened St George’s Hall café but not required. Food served between 11am -2pm.'
-    Category1: Exhibtion
+    ShortDesc: "Exhibition highlighting the heritage of St George’s Concert Hall in its ground floor café. View posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era and framed posters of comedy gigs. FREE An information sheet about the history and heritage of St George’s Hall will be provided along with details about the next available heritage tour of the whole site."
+    LongDesc: "View display highlighting the history and heritage of the stunning, Grade II* listed St George’s Hall in its ground floor café. This includes posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era shown at the venue when it was a cinema and framed posters of comedy gigs. QR codes with links to the history and heritage of St George’s Hall website support the display with further images and information. FREE entry. No booking needed. Enjoy a drink or bite to eat in the newly opened St George’s Hall café but not required. Food served between 11am -2pm."
+    Category1: Exhibition
     Category2: 'Food & Drink'
     LeadName: 'Penny Green'
     LeadEmail: Penny.Green@bradford.gov.uk
@@ -296,7 +296,7 @@
     Times: '10.30am to 3.00pm'
     ShortDesc: 'South Square is delighted to be hosting an exhibition by Alicja Mrozowska, work to date and explores identity, memory, and cultural hybridity through bold portraiture and playful abstraction.'
     LongDesc: 'Alicja Mrozowska’s paintings navigate the layered terrain of identity, memory, and cultural hybridity through bold portraiture and playful abstraction. Rooted in personal history and shaped by the nuances of migration, her work draws from everyday imagery, reconfiguring the familiar to question how place and experience inform who we are. Yorkshire Pudding and Pickled Cabbage marks the most expansive presentation of Mrozowska’s work to date, bringing together paintings from 2017 through to 2025. Combining large gestural brushstrokes with recurring motifs and symbolic references, her compositions balance between the recognisable and the obscure, inviting viewers into a space where identities blur, overlap, and reform. Through a practice grounded in both intuition and process, Mrozowska weaves together collected images - personal, cultural, and imagined - layering them with oil paint and paper to construct portraits that resist singular readings. Her figures emerge not as fixed subjects but as open-ended reflections of internal complexity, shaped as much by social context as by intimate experience. At once serious and light-hearted, the exhibition revels in contradiction, drawing attention to the tensions between surface and depth, play and constraint, self and other. Mrozowska’s work ultimately asks: how do we perform, obscure, or reveal who we are - especially when those performances take place within the structures of cultural expectation? Alicja Mrozowska is a Polish visual artist and painter currently based in Leeds. Her practice explores identity, the concept of ‘home,’ and social constructs through a range of mediums including oil painting, film photography, installation, and construction. Drawing from personal experience, surroundings, and relationships, she reflects on the complexities of migration and belonging. Mrozowska graduated from the University of Salford in 2018 with a BA (Hons) in Visual Art. Since then, she has exhibited widely and taken part in collaborations and group residencies, while also devising and leading creative workshops in the UK, Poland, and Germany. Her process-driven approach weaves together collected images and intuitive mark-making to create narrative-rich, multidimensional works that prompt curiosity, vulnerability and acceptance.'
-    Category1: Exhibtion
+    Category1: Exhibition
     Category2: 'Arts & Crafts'
     LeadName: ""
     LeadEmail: ""
@@ -347,7 +347,7 @@
     Times: '1pm to 4pm'
     ShortDesc: 'Sit in our restored third class carriage compartment, take your picture with some vintage luggage, view our vintage railway uniforms, handle railway objects from the past and play with vintage toys and games'
     LongDesc: 'Free entry, you don’t need to be travelling on the train to visit us – just find us on the platform. Step back in time to explore our 1924 passenger carriage which has been converted into a multi-use space for all sorts of events. Sit down in our third class carriage compartment or find the 1st class guard’s seat and wave a flag. Use our selection of vintage luggage to make the perfect photo for Instagram and view a range of uniforms worn by railway workers in days gone by. There will also be a variety of old toys and games for the little ones (and big kids) to play with.'
-    Category1: Exhibtion
+    Category1: Exhibition
     Category2: 'Free Event'
     LeadName: 'Matt Arnold'
     LeadEmail: matt.arnold@ingrowloco.com
@@ -398,7 +398,7 @@
     Times: '10.30am to 3.00pm'
     ShortDesc: 'South Square is delighted to be hosting an exhibition by Alicja Mrozowska, work to date and explores identity, memory, and cultural hybridity through bold portraiture and playful abstraction.'
     LongDesc: 'Alicja Mrozowska’s paintings navigate the layered terrain of identity, memory, and cultural hybridity through bold portraiture and playful abstraction. Rooted in personal history and shaped by the nuances of migration, her work draws from everyday imagery, reconfiguring the familiar to question how place and experience inform who we are. Yorkshire Pudding and Pickled Cabbage marks the most expansive presentation of Mrozowska’s work to date, bringing together paintings from 2017 through to 2025. Combining large gestural brushstrokes with recurring motifs and symbolic references, her compositions balance between the recognisable and the obscure, inviting viewers into a space where identities blur, overlap, and reform. Through a practice grounded in both intuition and process, Mrozowska weaves together collected images - personal, cultural, and imagined - layering them with oil paint and paper to construct portraits that resist singular readings. Her figures emerge not as fixed subjects but as open-ended reflections of internal complexity, shaped as much by social context as by intimate experience. At once serious and light-hearted, the exhibition revels in contradiction, drawing attention to the tensions between surface and depth, play and constraint, self and other. Mrozowska’s work ultimately asks: how do we perform, obscure, or reveal who we are - especially when those performances take place within the structures of cultural expectation? Alicja Mrozowska is a Polish visual artist and painter currently based in Leeds. Her practice explores identity, the concept of ‘home,’ and social constructs through a range of mediums including oil painting, film photography, installation, and construction. Drawing from personal experience, surroundings, and relationships, she reflects on the complexities of migration and belonging. Mrozowska graduated from the University of Salford in 2018 with a BA (Hons) in Visual Art. Since then, she has exhibited widely and taken part in collaborations and group residencies, while also devising and leading creative workshops in the UK, Poland, and Germany. Her process-driven approach weaves together collected images and intuitive mark-making to create narrative-rich, multidimensional works that prompt curiosity, vulnerability, and acceptance'
-    Category1: Exhibtion
+    Category1: Exhibition
     Category2: 'Arts & Crafts'
     LeadName: ""
     LeadEmail: ""
