@@ -16,8 +16,8 @@
     ImageName: bhf006.png
     Notes: "\r"
 -
-    EventTitle: St Georges Heritage Exhibtion
-    VenueAddress: 'St Georges Hall, Bradford BD1 1JT'
+    EventTitle: St George''s Hall Heritage Exhibtion
+    VenueAddress: 'St George''s Hall, Bradford BD1 1JT'
     VenuePhone: '01274 432375'
     VenueWebsite: 'https://www.stgeorgeshallheritage-bradford.co.uk/'
     Date: 11/07/2025
@@ -28,7 +28,7 @@
     Category2: 'Food & Drink'
     LeadName: 'Penny Green'
     LeadEmail: Penny.Green@bradford.gov.uk
-    ImageDesc: 'St Georges Hall Café'
+    ImageDesc: "St George''s Hall Café"
     ImageCredit: 'Also need Loyttery logo'
     ImageName: bhf007.png
     Notes: "\r"
@@ -221,7 +221,7 @@
     Notes: "Emily Parkin will be selling signed copies of her book at this event.\r"
 -
     EventTitle: Exhibtion
-    VenueAddress: 'St Georges Hall, Bradford BD1 1JT'
+    VenueAddress: 'St George''s Hall, Bradford, BD1 1JT'
     VenuePhone: '01274 432375'
     VenueWebsite: 'https://www.stgeorgeshallheritage-bradford.co.uk/'
     Date: 12/07/2025
@@ -232,7 +232,7 @@
     Category2: 'Food & Drink'
     LeadName: 'Penny Green'
     LeadEmail: Penny.Green@bradford.gov.uk
-    ImageDesc: 'St Georges Hall Café'
+    ImageDesc: "St George''s Hall Café"
     ImageCredit: 'Also need Loyttery logo'
     ImageName: bhf013.png
     Notes: "\r"
