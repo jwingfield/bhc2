@@ -14,7 +14,7 @@
     ImageDesc: 'Book Binding'
     ImageCredit: ""
     ImageName: bhf006.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: "St George's Hall Heritage Exhibition"
     VenueAddress: "St George's Hall, Bradford, BD1 1JT"
@@ -31,7 +31,7 @@
     ImageDesc: "St George's Hall Café"
     ImageCredit: 'Also need Loyttery logo'
     ImageName: bhf007.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Crafting the Cathedral'
     VenueAddress: 'Bradford Cathedral, 1 Stott Hill, Bradford, BD1 4EH'
@@ -49,7 +49,7 @@
     ImageDesc: 'Crafting the Cathedral'
     ImageCredit: 'Also need Lottery Logo'
     ImageName: bhf008.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Mapping Bradford''s History'
     VenueAddress: 'Mechanics Institute'
@@ -66,7 +66,7 @@
     ImageDesc: ""
     ImageCredit: 'Bath Historic Map'
     ImageName: bhf009.png
-    Notes: "Bradford Map Events\r"
+    Notes: "Bradford Map Events"
 -
     EventTitle: 'A Moving Legacy for Bradford'
     VenueAddress: 'Mechanics Institute, 76 Kirkgate, Bradford, BD1 1SZ'
@@ -92,7 +92,7 @@
     ImageDesc: "Vaults"
     ImageCredit: ''
     ImageName: bhf024.png
-    Notes: "Bradford Map Events\r"
+    Notes: "Bradford Map Events"
 -
     EventTitle: 'Snapshots of Ilkley: Youthful Visions & Historic Reflections'
     VenueAddress: 'Ilkley Manor House, Castle Yard, Ilkley LS29 9DT'
@@ -109,7 +109,7 @@
     ImageDesc: 'Ilkley Manor House'
     ImageCredit: ""
     ImageName: bhf010.png
-    Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House.\r"
+    Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House."
 -
     EventTitle: 'Yorkshire Pudding and Pickled Cabbage'
     VenueAddress: 'South Square Centre, Thornton Road, BD13 3LD'
@@ -172,7 +172,7 @@
     ImageDesc: 'Packhorse Bridge'
     ImageCredit: 'The Brontë Society'
     ImageName: bhf001.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Thornton Antiquarians Exhibition'
     VenueAddress: 'Thornton Community Centre, Market St, BD13 3HW'
@@ -189,7 +189,7 @@
     ImageDesc: None
     ImageCredit: ""
     ImageName: bhf-mini.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Four FREE Guided Tours of World Heritage Saltaire'
     VenueAddress: 'Start at Saltaire United Reformed Church, Victoria Road, Saltaire, BD18 3LF'
@@ -213,7 +213,7 @@
     ImageDesc: 'Saltaire Arial View'
     ImageCredit: ''
     ImageName: bhf003.png
-    Notes: "Limited disabled only parking is available in the URC grounds\r"
+    Notes: "Limited disabled only parking is available in the URC grounds"
 -
     EventTitle: 'Snapshots of Ilkley: Youthful Visions & Historic Reflections'
     VenueAddress: 'Ilkley Manor House, Castle Yard, Ilkley LS29 9DT'
@@ -230,7 +230,7 @@
     ImageDesc: 'Ilkley Manor House'
     ImageCredit: ""
     ImageName: bhf004.png
-    Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House.\r"
+    Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House."
 -
     EventTitle: 'Bradford on the Beat: Vintage Vehicle Day at The Bradford Police Museum'
     VenueAddress: 'Police Museum, City Hall, Centenary Square, Bradford, BD1 1HY'
@@ -284,7 +284,7 @@
     ImageDesc: ""
     ImageCredit: 'Emily and Book'
     ImageName: bhf012.png
-    Notes: "Emily Parkin will be selling signed copies of her book at this event.\r"
+    Notes: "Emily Parkin will be selling signed copies of her book at this event."
 -
     EventTitle: "St George's Hall Heritage Exhibition"
     VenueAddress: "St George's Hall, Bradford, BD1 1JT"
@@ -301,7 +301,7 @@
     ImageDesc: "St George's Hall Café"
     ImageCredit: 'Also need Lottery logo'
     ImageName: bhf013.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Sound And Vision: Family Day'
     VenueAddress: 'National Science and Media Museum, Little Horton Lane, BD1 1NQ'
@@ -318,7 +318,7 @@
     ImageDesc: 'NSMM Façade'
     ImageCredit: ""
     ImageName: bhf014.png
-    Notes: "Visit the National Science and Media Museum, Bradford\r"
+    Notes: "Visit the National Science and Media Museum, Bradford"
 -
     EventTitle: 'Crafting the Cathedral'
     VenueAddress: 'Bradford Cathedral, 1 Stott Hill, Bradford, BD1 4EH'
@@ -336,7 +336,7 @@
     ImageDesc: 'Crafting the Cathedral'
     ImageCredit: 'Also need Lottery Logo'
     ImageName: bhf015.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'The Witch Trial of Mary Sykes'
     VenueAddress: 'Bolling Hall Museum'
@@ -353,7 +353,7 @@
     ImageDesc: 'Witch Trail'
     ImageCredit: ""
     ImageName: bhf019.jpg
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Yorkshire Pudding and Pickled Cabbage'
     VenueAddress: 'South Square Centre, Thornton Road, BD13 3LD'
@@ -399,7 +399,7 @@
     ImageDesc: ""
     ImageCredit: ""
     ImageName: bhf018.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'The Butterfield Women of Cliffe Castle'
     VenueAddress: 'Mechanics Institute'
@@ -416,7 +416,7 @@
     ImageDesc: 'Butterfield Women'
     ImageCredit: ""
     ImageName: bhf020.jpg
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'A Bingley Byron Walk - Celebrating the life and poems of John Nicholson'
     VenueAddress: 'Starting at the Ling Bob pub (BD15 0JU) walking to the Malt Shovel (BD16 1BG) via Wilsden Cemetery and Goit Stock Falls.'
@@ -433,7 +433,7 @@
     ImageDesc: 'Glyn at Goit Stock'
     ImageCredit: 'A Bingley Byron Walk'
     ImageName: bhf021.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Railway History & Heritage'
     VenueAddress: 'Learning Coach, Ingrow West station platform, South Street, Ingrow, BD21 5AX.'
@@ -450,7 +450,7 @@
     ImageDesc: Uniforms
     ImageCredit: ""
     ImageName: bhf005.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Snapshots of Ilkley: Youthful Visions & Historic Reflections'
     VenueAddress: 'Ilkley Manor House, Castle Yard, Ilkley LS29 9DT'
@@ -467,7 +467,7 @@
     ImageDesc: 'Ilkley Manor House'
     ImageCredit: ""
     ImageName: bhf016.png
-    Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House.\r"
+    Notes: "There plenty of off street parking as well as parking in the main car park which is a couple of minutes walk from the House. There is no parking at the Manor House. The main train station is a 5 minute walk from House. There is no lift to the upstairs floors at the House."
 -
     EventTitle: 'Willie Riley – his life and archive'
     VenueAddress: 'J.B. Priestley Library, University of Bradford, Richmond Road, BD7 1DP'
@@ -538,7 +538,7 @@
     ImageDesc: ""
     ImageCredit: ""
     ImageName: bhf018.png
-    Notes: "\r"
+    Notes: ""
 -
     EventTitle: 'Heritage Craft Workshop - Traditional Arabic Calligraphy'
     VenueAddress: 'Heritage Craft Room, Bradford Industrial Museum, Moorside Road, BD2 3HP'
