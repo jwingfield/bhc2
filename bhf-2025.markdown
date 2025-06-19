@@ -20,9 +20,11 @@ title: Heritage Festival 2025 Events
   </p>
   <p>
     <b>Venue:</b> {{event.VenueAddress}}<br/>
-    <b>Phone:</b> {{event.VenuePhone}}<br/>
+    {% if {{event.VenuePhone}} <> "" %}
+      <b>Phone:</b> {{event.VenuePhone}}<br/>
+    {% endif %}
     {% if {{event.VenueWebsite}} <> "" %}
-        <b>Website:</b> <a href="https://{{event.VenueWebsite}}" target="_blank">Click here</a><br/>
+      <b>Website:</b> <a href="https://{{event.VenueWebsite}}" target="_blank">Click here</a><br/>
     {% endif %}
     {{event.Category1}} | {{event.Category2}}
   </p>
