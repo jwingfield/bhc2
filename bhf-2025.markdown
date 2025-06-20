@@ -12,7 +12,7 @@ title: Heritage Festival 2025 Events
      <img src="images/{{event.ImageName}}" alt="{{event.ImageDesc}} | Credit {{event.ImageCredit}}" style="float: left; height: 80px; margin-right: 20px; margin-bottom: 10px;">
     <h3>{{ event.Date | date: "%a %-d %B %Y" }} - {{ event.Times }}</h3>
     <h4>{{ event.EventTitle }}</h4>
-    <p>{{ event.LongDesc }}</p>
+    {{ event.LongDesc }}
     <p>
       <b>Venue:</b> {{ event.VenueAddress }}<br/>
       <b>Phone:</b> {{ event.VenuePhone }}<br/>
