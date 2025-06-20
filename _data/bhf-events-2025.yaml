@@ -17,20 +17,22 @@
     ImageName: bhf006.png
     Notes: ""
 -
-    EventTitle: "St George's Hall Heritage Exhibition"
-    VenueAddress: "St George's Hall, Bradford, BD1 1JT"
-    VenuePhone: '01274 432375'
-    VenueWebsite: 'www.stgeorgeshallheritage-bradford.co.uk/'
+    EventTitle: St George's Hall Heritage Exhibition
+    VenueAddress: St George's Hall, Bradford, BD1 1JT
+    VenuePhone: 01274 432375
+    VenueWebsite: www.stgeorgeshallheritage-bradford.co.uk/
     Date: 11/07/2025
-    Times: '10am to 4pm'
-    ShortDesc: 'Exhibition highlighting the heritage of St George’s Concert Hall in its ground floor café. View posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era and framed posters of comedy gigs. FREE An information sheet about the history and heritage of St George’s Hall will be provided along with details about the next available heritage tour of the whole site.'
-    LongDesc: 'View display highlighting the history and heritage of the stunning, Grade II* listed St George’s Hall in its ground floor café. This includes posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era shown at the venue when it was a cinema and framed posters of comedy gigs. QR codes with links to the history and heritage of St George’s Hall website support the display with further images and information. FREE entry. No booking needed. Enjoy a drink or bite to eat in the newly opened St George’s Hall café but not required. Food served between 11am -2pm.'
+    Times: 10am to 4pm
+    ShortDesc: > 
+        Exhibition highlighting the heritage of St George’s Concert Hall in its ground floor café. View posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era and framed posters of comedy gigs. FREE An information sheet about the history and heritage of St George’s Hall will be provided along with details about the next available heritage tour of the whole site.
+    LongDesc: >
+        View display highlighting the history and heritage of the stunning, Grade II* listed St George’s Hall in its ground floor café. This includes posters, photographs and documents from its founding in 1853 and early performances, Mitchell and Kenyon films of Bradford in the Victorian and Edwardian era shown at the venue when it was a cinema and framed posters of comedy gigs. QR codes with links to the history and heritage of St George’s Hall website support the display with further images and information. FREE entry. No booking needed. Enjoy a drink or bite to eat in the newly opened St George’s Hall café but not required. Food served between 11am -2pm.
     Category1: Exhibition
-    Category2: 'Food & Drink'
-    LeadName: 'Penny Green'
+    Category2: Food & Drink
+    LeadName: Penny Green
     LeadEmail: Penny.Green@bradford.gov.uk
-    ImageDesc: "St George's Hall Café"
-    ImageCredit: 'Also need Loyttery logo'
+    ImageDesc: St George's Hall Café
+    ImageCredit: 'Also need Lottery logo'
     ImageName: bhf007.png
     Notes: ""
 -
@@ -52,7 +54,7 @@
     ImageName: bhf008.png
     Notes: ""
 -
-    EventTitle: 'Mapping Bradford''s History'
+    EventTitle: Mapping Bradford's History
     VenueAddress: 'Mechanics Institute'
     VenuePhone: ""
     VenueWebsite: ""
@@ -88,10 +90,10 @@
       to chat about how to get involved.</p>
     Category1: Film
     Category2: Talk
-    LeadName: ''
+    LeadName: ""
     LeadEmail: ""
     ImageDesc: "Vaults"
-    ImageCredit: ''
+    ImageCredit: ""
     ImageName: bhf024.png
     Notes: "Bradford Map Events"
 -
@@ -198,11 +200,11 @@
     VenueWebsite: ""
     Date: 12/07/2025
     Times: '10am onwards'
-    ShortDesc: 'Led by knowledgeable local historians, each tour includes the URC church''s interior, the Salt family mausoleum and much more.'
+    ShortDesc: Led by knowledgeable local historians, each tour includes the URC church's interior, the Salt family mausoleum and much more.
     LongDesc: >
       <p>See Saltaire on a tour led by knowledgeable local historians. Your experience will 
-      start at the United Reformed Church with a slideshow painting Saltaire''s history. </p>
-      <p>Following this, you will visit the church''s glorious worship room and Sir Titus Salt''s 
+      start at the United Reformed Church with a slideshow painting Saltaire's history. </p>
+      <p>Following this, you will visit the church's glorious worship room and Sir Titus Salt's 
       family mausoleum. A walking tour of the villages star locations follows.</p>
       <p>To book your ticket visit Eventbrite  
       <a href="https://www.eventbrite.co.uk/e/four-free-guided-tours-of-world-heritage-saltaire-tickets-1362304121299?aff=oddtdtcreator" target="_blank"><u>this link</u></a>.
@@ -212,7 +214,7 @@
     LeadName: 'Maggie Smith and Les Brook'
     LeadEmail: smithmaggie6@gmail.com
     ImageDesc: 'Saltaire Arial View'
-    ImageCredit: ''
+    ImageCredit: ""
     ImageName: bhf003.png
     Notes: "Limited disabled only parking is available in the URC grounds"
 -
@@ -277,10 +279,14 @@
     Date: 12/07/2025
     Times: '10am to 11am'
     ShortDesc: 'Join local author and illustrator Emily Parkin to talk about her book ‘Titus Salt’. Afterwards, enjoy a llama themed craft activity.'
-    LongDesc: 'Emily Parkin, writer and illustrator of the book ''Titus Salt'' will be joining us on 12th July to read her book, give an insight into how the book was produced, and answer any questions the children may have. She will have some of the original illustrations for the children to look at and talk about how she thought up all the rhymes and rhythms. Afterwards, children can enjoy a llama themed craft activity. Booking essential. Suitable for children aged 7 -11 years.'
-    Category1: 'Free Event'
+    LongDesc: >
+        Emily Parkin, writer and illustrator of the book 'Titus Salt' will be joining us on 12th July to read her book, give an insight into how the 
+        book was produced, and answer any questions the children may have. She will have some of the original illustrations for the children to look at 
+        and talk about how she thought up all the rhymes and rhythms. Afterwards, children can enjoy a llama themed craft activity. Booking essential. 
+        Suitable for children aged 7 -11 years.
+    Category1: Free Event
     Category2: Literature
-    LeadName: 'Michelle Foster'
+    LeadName: Michelle Foster
     LeadEmail: michelle.foster@bradford.gov.uk
     ImageDesc: ""
     ImageCredit: 'Emily and Book'
@@ -345,8 +351,10 @@
     VenueWebsite: bradfordmuseums.org
     Date: 12/07/2025
     Times: '11am-12pm, 12.30-1.30pm and 2pm-3pm.'
-    ShortDesc: 'Meet Mary Sykes and Justice of the Peace William Tempest: The year is 1649 a time of social and religious upheaval in England. The trial takes place in the historic Bolling Hall, a stone manor house in Bradford. Listen to the witnesses and our Witch Expert and decide is Mary guilty or not guilty. You''ll also get the chance to make a lucky charm using crystals and herbs. Age 7+ recommended. Book by calling Bolling Hall on 01274-431826 (Weds to Sunday 11am-3pm)'
-    LongDesc: "Meet Mary Sykes and Justice of the Peace William Tempest: The year is 1649 a time of social and religious upheaval in England. The trial takes place in the historic Bolling Hall, a stone manor house in Bradford. Listen to the witnesses and our Witch Expert and decide is Mary guilty or not guilty. You'll also get the chance to make a lucky charm using crystals and herbs. Age 7+ recommended. Book by calling Bolling Hall on 01274-431826 (Weds to Sunday 11am-3pm)"
+    ShortDesc: >
+        Meet Mary Sykes and Justice of the Peace William Tempest: The year is 1649 a time of social and religious upheaval in England. The trial takes place in the historic Bolling Hall, a stone manor house in Bradford. Listen to the witnesses and our Witch Expert and decide is Mary guilty or not guilty. You'll also get the chance to make a lucky charm using crystals and herbs. Age 7+ recommended. Book by calling Bolling Hall on 01274-431826 (Weds to Sunday 11am-3pm)
+    LongDesc: >
+        Meet Mary Sykes and Justice of the Peace William Tempest: The year is 1649 a time of social and religious upheaval in England. The trial takes place in the historic Bolling Hall, a stone manor house in Bradford. Listen to the witnesses and our Witch Expert and decide is Mary guilty or not guilty. You'll also get the chance to make a lucky charm using crystals and herbs. Age 7+ recommended. Book by calling Bolling Hall on 01274-431826 (Weds to Sunday 11am-3pm)
     Category1: Family
     Category2: Free
     LeadName: 'Alison Brophy'
