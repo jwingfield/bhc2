@@ -15,7 +15,7 @@ title: Heritage Festival 2025 Events
   <h4>{{ event.EventTitle }}</h4>
   <p>{{ event.LongDesc }} </p>
   <p><b>Venue:</b> {{ event.VenueAddress }}<br/>
-  {%- if event.VenuePhone <> " -%}
+  {%- if event.VenuePhone <> "" -%}
    <b>Phone:</b> {{ event.VenuePhone }}<br/>
   {%- endif -%}
   {%- if event.VenueWebsite <> "" -%}
