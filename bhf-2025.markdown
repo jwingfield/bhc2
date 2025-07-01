@@ -15,7 +15,10 @@ title: Heritage Festival 2025 Events
   <h3>{{ event.Date | date: "%a %-d %B %Y" }} - {{ event.Times }}</h3>
   <h4>{{ event.EventTitle }}</h4>
   <p>{{ event.LongDesc }} </p>
-  <p><b>Venue:</b> {{ event.VenueAddress }}<br/>
+  <p>
+  {%- if event.VenueAddress <> "" -%}
+    <b>Venue:</b> {{ event.VenueAddress }}<br/>
+  {%- endif -%}
   {%- if event.VenuePhone <> "" -%}
    <b>Phone:</b> {{ event.VenuePhone }}<br/>
   {%- endif -%}
