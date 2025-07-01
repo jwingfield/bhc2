@@ -75,7 +75,7 @@
         <p>This tour will take you around where Bradford’s pubs and inns once stood. Once the venues of arts and entertainment, 
         some of them hosted wrestling matches, concerts and even Charles Dickens! The walking tour has 10 stops.</p>
         <p>Book your place by emailing development@historictownstrust.uk</p>
-        <p>Places are limited to just 20 so please book early to avoid disappointment</p>
+        <p>Places are limited to just 20 so please book early to avoid disappointment.</p>
     Category1: Heritage
     Category2: Walk
     LeadName: ""
@@ -523,6 +523,34 @@
     ImageDesc: Glyn at Goit Stock
     ImageCredit: A Bingley Byron Walk
     ImageName: bhf021.png
+    Notes: ""
+-
+    EventTitle: Historic Costume Guided Walking Tour (Saltaire/Shipley Glen)
+    VenueAddress: Starts on Victoria Road, Saltaire, outside the United Reform Church, BD18 3LF
+    VenuePhone: ""
+    VenueWebsite: https://www.joanne-edutainment.co.uk/
+    Date: 13/07/2025
+    Times: 1pm
+    ShortDesc: Sit in our restored third class carriage compartment, take your picture with some vintage luggage, view our vintage railway uniforms, handle railway objects from the past and play with vintage toys and games.
+    LongDesc: > 
+      <p>Time Travel to Victorian Saltaire and Edwardian England with two real life Costume Guides Meet not one but two real 
+      life costume guides who will take you on a journey back through time to Victorian Saltaire, learn all about Salt and why 
+      Saltaire, meet a few real life villagers from that time, hear their stories and scandals! Then follow Pollie Toothill 
+      down to the park, across the bridge and over the river to board the Time Machine AKA the historic Shipley Glen. On board, 
+      Pollie will transform into Edwardian Suffragette Nell Kenney as we time travel.</p>
+      <p>Disembark the Time Machine at the top of Shipley Glen where you’ll meet Edwardian Nell Kenney, Bingley Suffragette, 
+      she will introduce you to her amazing family. Her younger sister in particular, Annie Kenney, was well known and worked 
+      very closely with the Pankhursts. Nell will tell you all about their stories and the other amazing suffragettes. Nell 
+      will lead you up to the site of the amazing ‘Monster’ Suffragette Rally in 1908 attended by up to 100,000.</p>
+      <p>Tickets: Adults £10.50 Child £8.50 – Includes riding up and down on the historic Shipley Glen Tramway</p>
+      <p>To book: Visit <a href="www.joanne-edutainment.co.uk" target="_blank"><u>www.joanne-edutainment.co.uk</u>./a> 
+    Category1: Heritage
+    Category2: Performance
+    LeadName: ""
+    LeadEmail: ""
+    ImageDesc: Suffragette Tour
+    ImageCredit: ""
+    ImageName: bhf027.png
     Notes: ""
 -
     EventTitle: Railway History & Heritage
