@@ -1,23 +1,4 @@
 -
-    EventTitle: Bookbinding with West Yorkshire Archive Service
-    VenueAddress: Mechanics Institute, 76 Kirkgate, Bradford, BD1 1SZ
-    VenuePhone: ""
-    VenueWebsite: www.wyjs.org.uk/archive-service/
-    Date: 11/07/2025
-    Times: 10.30am to 3.30pm
-    ShortDesc: Visit the West Yorkshire Archive Service stall and give bookbinding a whirl. Using an easy sewing technique, you’ll learn to make books any size you like, perfect for little gifts!
-    LongDesc: > 
-      <p>Visit the West Yorkshire Archive Service stall and give bookbinding a whirl. The West Yorkshire Archive Service care for a huge range of archive collections including bound volumes, books, notepads, and diaries.</p>
-      <p>Drop into our stall at the Mechanic’s Institute where our staff will demonstrate an easy sewing technique you can use to make notebooks any size you like, perfect for little gifts!</p>
-    Category1: Heritage
-    Category2: Arts & Crafts
-    LeadName: Fiona Marshall
-    LeadEmail: Bradford@wyjs.org.uk
-    ImageDesc: Book Binding
-    ImageCredit: ""
-    ImageName: bhf006.png
-    Notes: ""
--
     EventTitle: St George's Hall Heritage Exhibition
     VenueAddress: St George's Hall, Bradford, BD1 1JT
     VenuePhone: 01274 432375
@@ -43,10 +24,29 @@
     ImageName: bhf007.png
     Notes: ""
 -
+    EventTitle: Bookbinding with West Yorkshire Archive Service
+    VenueAddress: Mechanics Institute, 76 Kirkgate, Bradford, BD1 1SZ
+    VenuePhone: ""
+    VenueWebsite: www.wyjs.org.uk/archive-service/
+    Date: 11/07/2025
+    Times: 10.30am to 3.30pm
+    ShortDesc: Visit the West Yorkshire Archive Service stall and give bookbinding a whirl. Using an easy sewing technique, you’ll learn to make books any size you like, perfect for little gifts!
+    LongDesc: > 
+      <p>Visit the West Yorkshire Archive Service stall and give bookbinding a whirl. The West Yorkshire Archive Service care for a huge range of archive collections including bound volumes, books, notepads, and diaries.</p>
+      <p>Drop into our stall at the Mechanic’s Institute where our staff will demonstrate an easy sewing technique you can use to make notebooks any size you like, perfect for little gifts!</p>
+    Category1: Heritage
+    Category2: Arts & Crafts
+    LeadName: Fiona Marshall
+    LeadEmail: Bradford@wyjs.org.uk
+    ImageDesc: Book Binding
+    ImageCredit: ""
+    ImageName: bhf006.png
+    Notes: ""
+-
     EventTitle: The Butterfield Women of Cliffe Castle
     VenueAddress: Mechanics Institute, 76 Kirkgate, Bradford, BD1 1SZ
     VenuePhone: ""
-    VenueWebsite: ""
+    VenueWebsite: www.bradfordmuseums.org
     Date: 11/07/2025
     Times: 10.30am to 11.30am
     ShortDesc: Find out more about the Butterfield Women of Cliffe Castle.
@@ -62,6 +62,27 @@
     ImageDesc: Butterfield Women
     ImageCredit: ""
     ImageName: bhf020.jpg
+    Notes: ""
+-
+    EventTitle: Bradford’s Historic Pubs and Inns – A Walk though Entertainment History
+    VenueAddress: ""
+    VenuePhone: ""
+    VenueWebsite: www.historictownstrust.uk
+    Date: 11/07/2025
+    Times: 10.30am
+    ShortDesc: A tour of where Bradford's pubs and inns once stood.
+    LongDesc: >
+        <p>This tour will take you around where Bradford’s pubs and inns once stood. Once the venues of arts and entertainment, 
+        some of them hosted wrestling matches, concerts and even Charles Dickens! The walking tour has 10 stops.</p>
+        <p>Book your place by emailing development@historictownstrust.uk</p>
+        <p>Places are limited to just 20 so please book early to avoid disappointment</p>
+    Category1: Heritage
+    Category2: Walk
+    LeadName: ""
+    LeadEmail: development@historictownstrust.uk
+    ImageDesc: The Historic Towns Trust Logo
+    ImageCredit: ""
+    ImageName: bhf026.jpg
     Notes: ""
 -
     EventTitle: Crafting the Cathedral
